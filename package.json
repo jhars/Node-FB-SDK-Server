@@ -1,0 +1,31 @@
+{
+  "name": "bsc-server-call-app",
+  "version": "1.0.0",
+  "description": "testing calling the Fb API with Node.js FB graph SDK, npm module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhars/Node-FB-SDK-Server.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "facebook",
+    "npm",
+    "sdk",
+    "api"
+  ],
+  "author": "Jon Harlan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhars/Node-FB-SDK-Server/issues"
+  },
+  "homepage": "https://github.com/jhars/Node-FB-SDK-Server#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "facebook-node-sdk": "^0.2.0"
+  }
+}
