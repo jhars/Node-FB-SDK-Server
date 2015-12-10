@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/jhars/Node-FB-SDK-Server#readme",
   "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
     "express": "^4.13.3",
     "facebook-node-sdk": "^0.2.0"
   }
